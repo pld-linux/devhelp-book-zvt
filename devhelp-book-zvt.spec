@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/zvt.tar.gz
+# Source0-md5:	bd185bd877b531ffacc80dd189bcc33f
 URL:		http://www.devhelp.net/
 Requires:	devhelp
 BuildArch:	noarch
