@@ -1,5 +1,5 @@
 Summary:	DevHelp book: zvt
-Summary(pl.UTF-8):   Książka do DevHelpa o zvt
+Summary(pl.UTF-8):	Książka do DevHelpa o zvt
 Name:		devhelp-book-zvt
 Version:	1.0
 Release:	1
