@@ -1,5 +1,5 @@
 Summary:	DevHelp book: zvt
-Summary(pl):	Ksi±¿ka do DevHelpa o zvt
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o zvt
 Name:		devhelp-book-zvt
 Version:	1.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about zvt.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o zvt.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o zvt.
 
 %prep
 %setup -q -c -n zvt
